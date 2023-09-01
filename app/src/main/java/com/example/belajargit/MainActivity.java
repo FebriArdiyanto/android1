@@ -7,6 +7,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
     public static void main(String[] args) {
         System.out.println("hello world");
+        System.out.println("halo Kamu");
     }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
